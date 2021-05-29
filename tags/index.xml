@@ -7,17 +7,26 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>https://examplesite.org/tags/source-themes.html</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Signal Processing</title>
+      <link>https://examplesite.org/tags/signal-processing.html</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/source-themes.html</guid>
+      <guid>https://examplesite.org/tags/signal-processing.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Statistics</title>
+      <link>https://examplesite.org/tags/robust-statistics.html</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/robust-statistics.html</guid>
       <description></description>
     </item>
     
