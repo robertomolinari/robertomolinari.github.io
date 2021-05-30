@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,65 @@
     <item>
       <title></title>
       <link>https://examplesite.org/authors/admin.html</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.org/authors/admin.html</guid>
-      <description>&lt;p&gt;Page under construction.&lt;/p&gt;
+      <description>&lt;p&gt;I entered academia at a later stage in life after having studied and worked in the fields of &lt;em&gt;international relations&lt;/em&gt; and &lt;em&gt;governmental advisory&lt;/em&gt;. After pursuing an MSc in Statistics to obtain some quantitative skills to use for my professional growth, I actually uncovered a latent passion for data science, research and teaching which lead me to become Assistant Professor at Auburn University after different academic and non-profit experiences.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ahmed Radi</title>
+      <link>https://examplesite.org/authors/ahmed-radi.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/ahmed-radi.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Davide Cucci</title>
+      <link>https://examplesite.org/authors/davide-cucci.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/davide-cucci.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaetan Bakalli</title>
+      <link>https://examplesite.org/authors/gaetan-bakalli.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/gaetan-bakalli.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naser El-Sheimy</title>
+      <link>https://examplesite.org/authors/naser-el-sheimy.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/naser-el-sheimy.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier Scaillet</title>
+      <link>https://examplesite.org/authors/olivier-scaillet.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/olivier-scaillet.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephane Guerrier</title>
+      <link>https://examplesite.org/authors/stephane-guerrier.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/stephane-guerrier.html</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,15 +91,6 @@
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.org/authors/sachin-heerah.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephane Guerrier</title>
-      <link>https://examplesite.org/authors/stephane-guerrier.html</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/authors/stephane-guerrier.html</guid>
       <description></description>
     </item>
     
