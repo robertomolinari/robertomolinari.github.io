@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Random Fields Inference</title>
+      <link>https://examplesite.org/project/random-fields.html</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/project/random-fields.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Granger-causal testing for irregularly sampled time series with application to nitrogen signalling in Arabidopsis</title>
       <link>https://examplesite.org/publication/granger.html</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
@@ -30,15 +39,6 @@
       <guid>https://examplesite.org/publication/granger.html</guid>
       <description>&lt;p&gt;The R package can be found and downloaded &lt;a href=&#34;https://github.com/SMAC-Group/irg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Random Fields Inference</title>
-      <link>https://examplesite.org/project/random-fields.html</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/project/random-fields.html</guid>
-      <description></description>
     </item>
     
   </channel>
