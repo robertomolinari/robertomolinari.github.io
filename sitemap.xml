@@ -53,6 +53,9 @@
     <loc>https://examplesite.org/authors/ahmed-radi.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://examplesite.org/tags/applied.html</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://examplesite.org/authors.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -98,7 +101,10 @@
     <loc>https://examplesite.org/tags/signal-processing.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/privacy.html</loc>
+    <loc>https://examplesite.org/project/data-privacy.html</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/project/sensor-calibration.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.org/authors/stephane-guerrier.html</loc>
@@ -108,7 +114,40 @@
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.org/publication_types/2.html</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/aurore-janier-dubry.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/charalambos-pavlopoulos.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/ester-ponzetto.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/nabil-mili.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/nicolas-parisi.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/publication/covid.html</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/alama-keita.html</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/guillaume-constantin-de-magny.html</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/publication/cholera.html</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/julien-graveleau.html</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/maria-eleanor-reserva.html</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.org/authors/amy-marshall-colon.html</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
@@ -127,6 +166,21 @@
   </url><url>
     <loc>https://examplesite.org/publication/rgmwm.html</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/publication/defense.html</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/michelle-pistner-nixon.html</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/steven-r.-nixon.html</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/authors/mucyo-karemera.html</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.org/publication/mgmwm.html</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.org/courses.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>

@@ -22,5 +22,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Non applicability of validated predictive models for intensive care admission and death of COVID-19 patients in a secondary care hospital in Belgium</title>
+      <link>https://examplesite.org/publication/covid.html</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/covid.html</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Constantin De Magny on Roberto Molinari</title>
+    <link>https://examplesite.org/authors/guillaume-constantin-de-magny.html</link>
+    <description>Recent content in Guillaume Constantin De Magny on Roberto Molinari</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/guillaume-constantin-de-magny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of Community-Led Total Sanitation and Water Coverages in the Control of Cholera in Madarounfa, Niger (2018)</title>
+      <link>https://examplesite.org/publication/cholera.html</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/cholera.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

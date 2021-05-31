@@ -14,12 +14,21 @@
     
     <item>
       <title>Statistical Inference for Private Data</title>
-      <link>https://examplesite.org/project/privacy.html</link>
+      <link>https://examplesite.org/project/data-privacy.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/privacy.html</guid>
+      <guid>https://examplesite.org/project/data-privacy.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Data of the Defense and the Defense of Data</title>
+      <link>https://examplesite.org/publication/defense.html</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/defense.html</guid>
+      <description></description>
     </item>
     
   </channel>
