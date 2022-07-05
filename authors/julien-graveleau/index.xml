@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julien Graveleau on Roberto Molinari</title>
-    <link>https://examplesite.org/authors/julien-graveleau.html</link>
+    <link>/authors/julien-graveleau.html</link>
     <description>Recent content in Julien Graveleau on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/authors/julien-graveleau/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/julien-graveleau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Influence of Community-Led Total Sanitation and Water Coverages in the Control of Cholera in Madarounfa, Niger (2018)</title>
-      <link>https://examplesite.org/publication/cholera.html</link>
+      <link>/publication/cholera.html</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/cholera.html</guid>
+      <guid>/publication/cholera.html</guid>
       <description></description>
     </item>
     

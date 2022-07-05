@@ -2,221 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Roberto Molinari</title>
-    <link>https://examplesite.org/authors.html</link>
+    <link>/authors.html</link>
     <description>Recent content in Authors on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://examplesite.org/authors/admin.html</link>
+      <link>/authors/admin.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/admin.html</guid>
+      <guid>/authors/admin.html</guid>
       <description>&lt;p&gt;I entered academia at a later stage in life after having studied and worked in the fields of &lt;em&gt;international relations&lt;/em&gt; and &lt;em&gt;governmental advisory&lt;/em&gt;. While pursuing an MSc in Statistics to obtain some quantitative skills to use for my professional growth, I uncovered a latent passion for data science, research and teaching which lead me to become Assistant Professor at Auburn University after different academic and non-profit experiences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ahmed Radi</title>
-      <link>https://examplesite.org/authors/ahmed-radi.html</link>
+      <link>/authors/ahmed-radi.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/ahmed-radi.html</guid>
+      <guid>/authors/ahmed-radi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Davide Cucci</title>
-      <link>https://examplesite.org/authors/davide-cucci.html</link>
+      <link>/authors/davide-cucci.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/davide-cucci.html</guid>
+      <guid>/authors/davide-cucci.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaetan Bakalli</title>
-      <link>https://examplesite.org/authors/gaetan-bakalli.html</link>
+      <link>/authors/gaetan-bakalli.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/gaetan-bakalli.html</guid>
+      <guid>/authors/gaetan-bakalli.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naser El-Sheimy</title>
-      <link>https://examplesite.org/authors/naser-el-sheimy.html</link>
+      <link>/authors/naser-el-sheimy.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/naser-el-sheimy.html</guid>
+      <guid>/authors/naser-el-sheimy.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olivier Scaillet</title>
-      <link>https://examplesite.org/authors/olivier-scaillet.html</link>
+      <link>/authors/olivier-scaillet.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/olivier-scaillet.html</guid>
+      <guid>/authors/olivier-scaillet.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stéphane Guerrier</title>
-      <link>https://examplesite.org/authors/stephane-guerrier.html</link>
+      <link>/authors/stephane-guerrier.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/stephane-guerrier.html</guid>
+      <guid>/authors/stephane-guerrier.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aurore Janier-Dubry</title>
-      <link>https://examplesite.org/authors/aurore-janier-dubry.html</link>
+      <link>/authors/aurore-janier-dubry.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/aurore-janier-dubry.html</guid>
+      <guid>/authors/aurore-janier-dubry.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charalambos Pavlopoulos</title>
-      <link>https://examplesite.org/authors/charalambos-pavlopoulos.html</link>
+      <link>/authors/charalambos-pavlopoulos.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/charalambos-pavlopoulos.html</guid>
+      <guid>/authors/charalambos-pavlopoulos.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ester Ponzetto</title>
-      <link>https://examplesite.org/authors/ester-ponzetto.html</link>
+      <link>/authors/ester-ponzetto.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/ester-ponzetto.html</guid>
+      <guid>/authors/ester-ponzetto.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nabil Mili</title>
-      <link>https://examplesite.org/authors/nabil-mili.html</link>
+      <link>/authors/nabil-mili.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/nabil-mili.html</guid>
+      <guid>/authors/nabil-mili.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolas Parisi</title>
-      <link>https://examplesite.org/authors/nicolas-parisi.html</link>
+      <link>/authors/nicolas-parisi.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/nicolas-parisi.html</guid>
+      <guid>/authors/nicolas-parisi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alama Keita</title>
-      <link>https://examplesite.org/authors/alama-keita.html</link>
+      <link>/authors/alama-keita.html</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/alama-keita.html</guid>
+      <guid>/authors/alama-keita.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guillaume Constantin De Magny</title>
-      <link>https://examplesite.org/authors/guillaume-constantin-de-magny.html</link>
+      <link>/authors/guillaume-constantin-de-magny.html</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/guillaume-constantin-de-magny.html</guid>
+      <guid>/authors/guillaume-constantin-de-magny.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Julien Graveleau</title>
-      <link>https://examplesite.org/authors/julien-graveleau.html</link>
+      <link>/authors/julien-graveleau.html</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/julien-graveleau.html</guid>
+      <guid>/authors/julien-graveleau.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria Eleanor Reserva</title>
-      <link>https://examplesite.org/authors/maria-eleanor-reserva.html</link>
+      <link>/authors/maria-eleanor-reserva.html</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/maria-eleanor-reserva.html</guid>
+      <guid>/authors/maria-eleanor-reserva.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amy Marshall-Colon</title>
-      <link>https://examplesite.org/authors/amy-marshall-colon.html</link>
+      <link>/authors/amy-marshall-colon.html</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/amy-marshall-colon.html</guid>
+      <guid>/authors/amy-marshall-colon.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sachin Heerah</title>
-      <link>https://examplesite.org/authors/sachin-heerah.html</link>
+      <link>/authors/sachin-heerah.html</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/sachin-heerah.html</guid>
+      <guid>/authors/sachin-heerah.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haotian Xu</title>
-      <link>https://examplesite.org/authors/haotian-xu.html</link>
+      <link>/authors/haotian-xu.html</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/haotian-xu.html</guid>
+      <guid>/authors/haotian-xu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria-Pia Victoria-Feser</title>
-      <link>https://examplesite.org/authors/maria-pia-victoria-feser.html</link>
+      <link>/authors/maria-pia-victoria-feser.html</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/maria-pia-victoria-feser.html</guid>
+      <guid>/authors/maria-pia-victoria-feser.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michelle Pistner Nixon</title>
-      <link>https://examplesite.org/authors/michelle-pistner-nixon.html</link>
+      <link>/authors/michelle-pistner-nixon.html</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/michelle-pistner-nixon.html</guid>
+      <guid>/authors/michelle-pistner-nixon.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steven R. Nixon</title>
-      <link>https://examplesite.org/authors/steven-r.-nixon.html</link>
+      <link>/authors/steven-r.-nixon.html</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/steven-r.-nixon.html</guid>
+      <guid>/authors/steven-r.-nixon.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mucyo Karemera</title>
-      <link>https://examplesite.org/authors/mucyo-karemera.html</link>
+      <link>/authors/mucyo-karemera.html</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/mucyo-karemera.html</guid>
+      <guid>/authors/mucyo-karemera.html</guid>
       <description></description>
     </item>
     

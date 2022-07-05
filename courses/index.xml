@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Roberto Molinari</title>
-    <link>https://examplesite.org/courses.html</link>
+    <link>/courses.html</link>
     <description>Recent content in Courses on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/courses/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview 2</title>
-      <link>https://examplesite.org/courses/example.1.html</link>
+      <link>/courses/example.1.html</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/courses/example.1.html</guid>
+      <guid>/courses/example.1.html</guid>
       <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
 &lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Overview 3</title>
-      <link>https://examplesite.org/courses/example.2.html</link>
+      <link>/courses/example.2.html</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/courses/example.2.html</guid>
+      <guid>/courses/example.2.html</guid>
       <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
 &lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Overview</title>
-      <link>https://examplesite.org/courses/example.html</link>
+      <link>/courses/example.html</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/courses/example.html</guid>
+      <guid>/courses/example.html</guid>
       <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
 &lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;

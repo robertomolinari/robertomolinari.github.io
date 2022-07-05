@@ -2,67 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roberto Molinari</title>
-    <link>https://examplesite.org/tags.html</link>
+    <link>/tags.html</link>
     <description>Recent content in Tags on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Applied</title>
-      <link>https://examplesite.org/tags/applied.html</link>
+      <link>/tags/applied.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/applied.html</guid>
+      <guid>/tags/applied.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Privacy</title>
-      <link>https://examplesite.org/tags/data-privacy.html</link>
+      <link>/tags/data-privacy.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/data-privacy.html</guid>
+      <guid>/tags/data-privacy.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Selection</title>
-      <link>https://examplesite.org/tags/model-selection.html</link>
+      <link>/tags/model-selection.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/model-selection.html</guid>
+      <guid>/tags/model-selection.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Statistics</title>
-      <link>https://examplesite.org/tags/robust-statistics.html</link>
+      <link>/tags/robust-statistics.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/robust-statistics.html</guid>
+      <guid>/tags/robust-statistics.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signal Processing</title>
-      <link>https://examplesite.org/tags/signal-processing.html</link>
+      <link>/tags/signal-processing.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/signal-processing.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academia</title>
-      <link>https://examplesite.org/tags/academia.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/tags/academia.html</guid>
+      <guid>/tags/signal-processing.html</guid>
       <description></description>
     </item>
     

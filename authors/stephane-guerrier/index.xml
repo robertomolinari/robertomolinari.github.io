@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stéphane Guerrier on Roberto Molinari</title>
-    <link>https://examplesite.org/authors/stephane-guerrier.html</link>
+    <link>/authors/stephane-guerrier.html</link>
     <description>Recent content in Stéphane Guerrier on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/authors/stephane-guerrier/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/stephane-guerrier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multi-Signal Approaches for Repeated Sampling Schemes in Inertial Sensor Calibration</title>
-      <link>https://examplesite.org/publication/msgmwm.html</link>
+      <link>/publication/msgmwm.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/msgmwm.html</guid>
+      <guid>/publication/msgmwm.html</guid>
       <description>&lt;p&gt;The code for the R package (under development) can be found &lt;a href=&#34;https://github.com/SMAC-Group/mgmwm&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Non applicability of validated predictive models for intensive care admission and death of COVID-19 patients in a secondary care hospital in Belgium</title>
-      <link>https://examplesite.org/publication/covid.html</link>
+      <link>/publication/covid.html</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/covid.html</guid>
+      <guid>/publication/covid.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granger-causal testing for irregularly sampled time series with application to nitrogen signalling in Arabidopsis</title>
-      <link>https://examplesite.org/publication/granger.html</link>
+      <link>/publication/granger.html</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/granger.html</guid>
+      <guid>/publication/granger.html</guid>
       <description>&lt;p&gt;The R package can be found and downloaded &lt;a href=&#34;https://github.com/SMAC-Group/irg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Two-Step Wavelet-Based Inference for Time Series Models</title>
-      <link>https://examplesite.org/publication/rgmwm.html</link>
+      <link>/publication/rgmwm.html</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/rgmwm.html</guid>
+      <guid>/publication/rgmwm.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multivariate Signal Modeling With Applications to Inertial Sensor Calibration</title>
-      <link>https://examplesite.org/publication/mgmwm.html</link>
+      <link>/publication/mgmwm.html</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/mgmwm.html</guid>
+      <guid>/publication/mgmwm.html</guid>
       <description></description>
     </item>
     

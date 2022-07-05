@@ -2,210 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.org/courses/example/example1.html</loc>
+    <loc>/courses/example/example1.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1/example3.html</loc>
+    <loc>/courses/example.1/example3.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2/example3.html</loc>
+    <loc>/courses/example.2/example3.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1.html</loc>
+    <loc>/courses/example.1.html</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2.html</loc>
+    <loc>/courses/example.2.html</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.html</loc>
+    <loc>/courses/example.html</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.2/example4.html</loc>
+    <loc>/courses/example.2/example4.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example/example2.html</loc>
+    <loc>/courses/example/example2.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/example.1/example4.html</loc>
+    <loc>/courses/example.1/example4.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/coding.html</loc>
+    <loc>/talk/coding.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/qualitative.html</loc>
+    <loc>/talk/qualitative.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk.html</loc>
+    <loc>/talk.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/talk/synthesizing.html</loc>
+    <loc>/talk/synthesizing.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/admin.html</loc>
+    <loc>/authors/admin.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/3.html</loc>
+    <loc>/publication_types/3.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/ahmed-radi.html</loc>
+    <loc>/authors/ahmed-radi.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/applied.html</loc>
+    <loc>/tags/applied.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors.html</loc>
+    <loc>/authors.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/data-privacy.html</loc>
+    <loc>/tags/data-privacy.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/davide-cucci.html</loc>
+    <loc>/authors/davide-cucci.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/gaetan-bakalli.html</loc>
+    <loc>/authors/gaetan-bakalli.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/swag.html</loc>
+    <loc>/project/swag.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/model-selection.html</loc>
+    <loc>/tags/model-selection.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/msgmwm.html</loc>
+    <loc>/publication/msgmwm.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/naser-el-sheimy.html</loc>
+    <loc>/authors/naser-el-sheimy.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/olivier-scaillet.html</loc>
+    <loc>/authors/olivier-scaillet.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project.html</loc>
+    <loc>/project.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types.html</loc>
+    <loc>/publication_types.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication.html</loc>
+    <loc>/publication.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/random-fields.html</loc>
+    <loc>/project/random-fields.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/robust-statistics.html</loc>
+    <loc>/tags/robust-statistics.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/signal-processing.html</loc>
+    <loc>/tags/signal-processing.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/data-privacy.html</loc>
+    <loc>/project/data-privacy.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/project/sensor-calibration.html</loc>
+    <loc>/project/sensor-calibration.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/stephane-guerrier.html</loc>
+    <loc>/authors/stephane-guerrier.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags.html</loc>
+    <loc>/tags.html</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication_types/2.html</loc>
+    <loc>/publication_types/2.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/aurore-janier-dubry.html</loc>
+    <loc>/authors/aurore-janier-dubry.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/charalambos-pavlopoulos.html</loc>
+    <loc>/authors/charalambos-pavlopoulos.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/ester-ponzetto.html</loc>
+    <loc>/authors/ester-ponzetto.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/nabil-mili.html</loc>
+    <loc>/authors/nabil-mili.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/nicolas-parisi.html</loc>
+    <loc>/authors/nicolas-parisi.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/covid.html</loc>
+    <loc>/publication/covid.html</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/alama-keita.html</loc>
+    <loc>/authors/alama-keita.html</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/guillaume-constantin-de-magny.html</loc>
+    <loc>/authors/guillaume-constantin-de-magny.html</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/cholera.html</loc>
+    <loc>/publication/cholera.html</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/julien-graveleau.html</loc>
+    <loc>/authors/julien-graveleau.html</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/maria-eleanor-reserva.html</loc>
+    <loc>/authors/maria-eleanor-reserva.html</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/amy-marshall-colon.html</loc>
+    <loc>/authors/amy-marshall-colon.html</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/granger.html</loc>
+    <loc>/publication/granger.html</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/sachin-heerah.html</loc>
+    <loc>/authors/sachin-heerah.html</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/haotian-xu.html</loc>
+    <loc>/authors/haotian-xu.html</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/maria-pia-victoria-feser.html</loc>
+    <loc>/authors/maria-pia-victoria-feser.html</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/rgmwm.html</loc>
+    <loc>/publication/rgmwm.html</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/defense.html</loc>
+    <loc>/publication/defense.html</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/michelle-pistner-nixon.html</loc>
+    <loc>/authors/michelle-pistner-nixon.html</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/steven-r.-nixon.html</loc>
+    <loc>/authors/steven-r.-nixon.html</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/mucyo-karemera.html</loc>
+    <loc>/authors/mucyo-karemera.html</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/publication/mgmwm.html</loc>
+    <loc>/publication/mgmwm.html</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses.html</loc>
+    <loc>/courses.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/jupyter.html</loc>
+    <loc>/slides.html</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post.html</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/slides.html</loc>
+    <loc>/slides/example.html</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/slides/example.html</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/post/snail.html</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/tags/academia.html</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/post/getting-started.html</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.org/categories.html</loc>
+    <loc>/categories.html</loc>
   </url>
 </urlset>

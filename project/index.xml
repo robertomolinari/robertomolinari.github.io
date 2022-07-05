@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Roberto Molinari</title>
-    <link>https://examplesite.org/project.html</link>
+    <link>/project.html</link>
     <description>Recent content in Projects on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpretable Network Selection</title>
-      <link>https://examplesite.org/project/swag.html</link>
+      <link>/project/swag.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/swag.html</guid>
+      <guid>/project/swag.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Random Fields Inference</title>
-      <link>https://examplesite.org/project/random-fields.html</link>
+      <link>/project/random-fields.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/random-fields.html</guid>
+      <guid>/project/random-fields.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical Inference for Private Data</title>
-      <link>https://examplesite.org/project/data-privacy.html</link>
+      <link>/project/data-privacy.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/data-privacy.html</guid>
+      <guid>/project/data-privacy.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Sensor Calibration</title>
-      <link>https://examplesite.org/project/sensor-calibration.html</link>
+      <link>/project/sensor-calibration.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/sensor-calibration.html</guid>
+      <guid>/project/sensor-calibration.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
     </item>

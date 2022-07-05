@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Privacy on Roberto Molinari</title>
-    <link>https://examplesite.org/tags/data-privacy.html</link>
+    <link>/tags/data-privacy.html</link>
     <description>Recent content in Data Privacy on Roberto Molinari</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Statistical Inference for Private Data</title>
-      <link>https://examplesite.org/project/data-privacy.html</link>
+      <link>/project/data-privacy.html</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/data-privacy.html</guid>
+      <guid>/project/data-privacy.html</guid>
       <description>&lt;p&gt;To be developed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data of the Defense and the Defense of Data</title>
-      <link>https://examplesite.org/publication/defense.html</link>
+      <link>/publication/defense.html</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/defense.html</guid>
+      <guid>/publication/defense.html</guid>
       <description></description>
     </item>
     
