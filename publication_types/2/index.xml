@@ -7,38 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield</title>
-      <link>/publication/irrigation.html</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/irrigation.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evidence of antagonistic predictive effects of miRNAs in breast cancer cohorts through data-driven networks</title>
-      <link>/publication/swag_breast.html</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/swag_breast.html</guid>
-      <description>&lt;p&gt;The R package used for the analysis in this paper can be found and downloaded &lt;a href=&#34;https://github.com/SMAC-Group/SWAG-R-Package/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Perturbed M-Estimation, A Further Investigation of Robust Statistics for Differential Privacy</title>
-      <link>/publication/pert_privacy.html</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pert_privacy.html</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Non applicability of validated predictive models for intensive care admission and death of COVID-19 patients in a secondary care hospital in Belgium</title>
@@ -87,40 +59,12 @@
     </item>
     
     <item>
-      <title>Wavelet-Based Moment-Matching Techniques for Inertial Sensor Calibration</title>
-      <link>/publication/mom_match.html</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mom_match.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Survival Analysis to Predict Workers&#39; Compensation Termination</title>
-      <link>/publication/worker_comp.html</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/worker_comp.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multivariate Signal Modeling With Applications to Inertial Sensor Calibration</title>
       <link>/publication/mgmwm.html</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/mgmwm.html</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A Multisignal Wavelet Variance-Based Framework for Inertial Sensor Stochastic Error Modeling</title>
-      <link>/publication/multi_signal.html</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/multi_signal.html</guid>
-      <description>&lt;p&gt;The R package can be found and downloaded &lt;a href=&#34;https://github.com/SMAC-Group/mgmwm&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

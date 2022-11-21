@@ -22,15 +22,5 @@
 </description>
     </item>
     
-    <item>
-      <title>A Multisignal Wavelet Variance-Based Framework for Inertial Sensor Stochastic Error Modeling</title>
-      <link>/publication/multi_signal.html</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/multi_signal.html</guid>
-      <description>&lt;p&gt;The R package can be found and downloaded &lt;a href=&#34;https://github.com/SMAC-Group/mgmwm&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

@@ -7,19 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Perturbed M-Estimation, A Further Investigation of Robust Statistics for Differential Privacy</title>
-      <link>/publication/pert_privacy.html</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pert_privacy.html</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Statistical Inference for Private Data</title>
