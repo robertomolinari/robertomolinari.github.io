@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Applied Statistics</title>
+      <link>/tags/applied-statistics.html</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/applied-statistics.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection</title>
+      <link>/tags/model-selection.html</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/model-selection.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Privacy</title>
+      <link>/tags/data-privacy.html</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-privacy.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Applied</title>
@@ -18,24 +45,6 @@
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/applied.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Privacy</title>
-      <link>/tags/data-privacy.html</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-privacy.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Selection</title>
-      <link>/tags/model-selection.html</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/model-selection.html</guid>
       <description></description>
     </item>
     
